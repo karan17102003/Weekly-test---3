@@ -1,0 +1,37 @@
+.proItem{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    background-color: rgb(5, 238, 215);
+    border-radius: 10%;
+    
+    
+}
+h1{
+    text-align: center;
+}
+.Product-1{
+    
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+    background-color: gray;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+    
+}
+.prod1{
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    background-color: gray;
+    font-weight: bold;
+
+}
+.cantaner{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+}
